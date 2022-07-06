@@ -15,4 +15,4 @@ O algoritmo deve conter as seguintes regras: <br>
     - Se o trecho total mais a margem de segurança, extrapolarem a capacidade máxima de combustível do tanque da aeronave, uma mensagem de alerta deve ser mostrada na tela, dizendo a seguinte mensagem “Voo Reprovado, reveja seu planejamento.”. Caso contrário mostrar "Voo Aprovado, bom voo!" <br>
     - Se o tanque suportar o trecho total mais a margem de segurança o algoritmo deverá mostrar na tela o valor do trecho principal, trecho alternativo, total do trecho com a margem de segurança, quantidade de combustível necessária para o trecho e quantidade necessária de abastecimento."
     
-    Fonte: Unicesumar - Disciplina de Algoritmo e Lógica de Programação
+    Fonte: Unicesumar - Disciplina de Algoritmos e Lógica de Programação
